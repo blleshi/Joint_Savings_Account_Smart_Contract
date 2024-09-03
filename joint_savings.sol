@@ -31,7 +31,7 @@ contract JointSavings {
     address payable accountTwo;
     address public lastToWithdraw;
     uint public lastWithdrawAmount;
-    unit public contractBalance;
+    uint public contractBalance;
 
 
     /*
